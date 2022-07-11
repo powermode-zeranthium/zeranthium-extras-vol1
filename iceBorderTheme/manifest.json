@@ -1,0 +1,20 @@
+{
+    "configsToLoad": [
+        "LOCKED_LAYER",
+        "MULTI_LAYER"
+    ],
+    "configSettings": {
+        "LOCKED_LAYER": {
+            "tableData": [
+                {
+                    "customPath": "./lockedLayer1",
+                    "enabled": true,
+                    "alpha": 1,
+                    "speedRate": 3,
+                    "val2": 0,
+                    "isCyclic": true
+                }
+            ]
+        }
+    }
+}
