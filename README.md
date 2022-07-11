@@ -12,7 +12,6 @@ For more info see <a href="https://cschar.github.io/power-mode-zeranthium/"> Zer
 <img src="./greenBorder1Theme/preview.png" />
 <img src="./stoneBorder1Theme/preview.png" height=150 />
 
-<img src="./fireWorksTheme/preview.png" />
 <img src="./flameBorderTheme/preview.png"  />
 
 
