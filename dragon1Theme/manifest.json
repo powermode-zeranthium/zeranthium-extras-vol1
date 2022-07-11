@@ -1,0 +1,49 @@
+{
+  "configsToLoad": ["LANTERN"],
+  "configSettings": {
+    "LANTERN":{
+        "maxParticles": 40,
+        "tracerEnabled": false,
+        "isCyclicEnabled": false,
+        "tableData":[
+          {
+            "customPath": "./body-frames",
+            "val2": 2,
+            "isCyclic": false,
+            "alpha": 1,
+            "val1": 2,
+            "val3": 8,
+            "scale": 0.3,
+            "enabled": false,
+            "speedRate": 4
+            
+          },
+          {
+            "customPath": "./head-frames",
+            "val2": 12,
+            "isCyclic": true,
+            "alpha": 1,
+            "val1": 12,
+            "val3" : 14,
+            "scale": 0.3,
+            "enabled": false,
+            "speedRate": 6
+            
+          },
+          {
+            "customPath": "./head-frames",
+            
+            "isCyclic": true,
+            "alpha": 1,
+            "val1": 4,
+            "val2": 2,
+            "val3" : 12,
+            "scale": 0.3,
+            "enabled": true,
+            "speedRate": 7
+            
+          }
+        ]
+      }    
+  }
+}
